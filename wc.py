@@ -4,4 +4,6 @@ def linecount(filename):
         count += 1
     return count
 
-print(linecount('wc.py'))
+if name == 'main': 
+    print(linecount('wc.py'))
+#print(linecount('wc.py'))

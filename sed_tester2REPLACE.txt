@@ -1,0 +1,1 @@
+p q r NEWPATTERN s t u v NEWPATTERN
